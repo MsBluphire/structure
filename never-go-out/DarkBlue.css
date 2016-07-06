@@ -1,12 +1,16 @@
 ﻿body {
-    background-color:darkblue;
-}
+    background-color:#2b60e0 ;font-family:helvetica;
+    }
 ul{
     text-align:center;
 }
 ul li {
     list-style-position:inside;
 }
+
 a{
     color:mediumpurple;
+}
+.copyright{
+    font-style:italic;font-size:12px;
 }
