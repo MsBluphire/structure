@@ -1,3 +1,22 @@
-﻿body {
+﻿html{
     background-color:burlywood;
+}
+
+body {
+    margin:50px;background-color:white;text-align:center;
+}
+ul{
+    list-style-type:none;
+}
+ul li{
+    text-align:center;
+}
+li::first-letter {
+    font-size: 24px;font-weight:bold;
+}
+a{
+    color:blue;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-style:italic;
 }
